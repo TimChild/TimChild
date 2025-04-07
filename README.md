@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tim Child</h1>
 <h3 align="center">A Physicist turned full stack (preferring backend) developer</h3>
+<h4 align="center">I'm looking for new and interesting work!!!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timchild&label=Profile%20views&color=0e75b6&style=flat" alt="timchild" /> </p>
 
